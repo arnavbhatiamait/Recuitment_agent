@@ -140,12 +140,12 @@ A quick visual tour of the application and UI. Click an image to open the full-s
 
 | Screenshot | Description |
 |---|---|
-| ![Screenshot 1](Screenshots/Screenshot 2025-12-07 180351.png) | Main dashboard / landing view |
-| ![Screenshot 2](Screenshots/Screenshot 2025-12-07 180925.png) | Resume upload and analysis panel |
-| ![Screenshot 3](Screenshots/Screenshot 2025-12-07 180933.png) | Role selection and configuration |
-| ![Screenshot 4](Screenshots/Screenshot 2025-12-07 181146.png) | Skill matching results and scoring |
-| ![Screenshot 5](Screenshots/Screenshot 2025-12-07 181210.png) | Strengths & weaknesses report |
-| ![Screenshot 6](Screenshots/Screenshot 2025-12-07 181305.png) | Recommendations and export options |
+| ![Screenshot 1](https://github.com/arnavbhatiamait/Recuitment/blob/main/Screenshots/Screenshot%202025-12-07%20180351.png?raw=true) | Main dashboard / landing view |
+| ![Screenshot 2](https://github.com/arnavbhatiamait/Recuitment/blob/main/Screenshots/Screenshot%202025-12-07%20180925.png?raw=true) | Resume upload and analysis panel |
+| ![Screenshot 3](https://github.com/arnavbhatiamait/Recuitment/blob/main/Screenshots/Screenshot%202025-12-07%20180933.png?raw=true) | Role selection and configuration |
+| ![Screenshot 4](https://github.com/arnavbhatiamait/Recuitment/blob/main/Screenshots/Screenshot%202025-12-07%20181146.png?raw=true) | Skill matching results and scoring |
+| ![Screenshot 5](https://github.com/arnavbhatiamait/Recuitment/blob/main/Screenshots/Screenshot%202025-12-07%20181210.png?raw=true) | Strengths & weaknesses report |
+| ![Screenshot 6](https://github.com/arnavbhatiamait/Recuitment/blob/main/Screenshots/Screenshot%202025-12-07%20181305.png?raw=true) | Recommendations and export options |
 
 </details>
 
