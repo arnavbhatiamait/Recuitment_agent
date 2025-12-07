@@ -1,0 +1,7 @@
+def analyze_resume_weaknesses(self,model=None):
+def extract_skills_from_jd(self, jd_text,model=None):
+    def semantic_skill_analysis(self, resume_text, skills):
+    def ask_question(self, question,model):
+    def generate_interview_questions(self, question_types, difficulty, num_questions):
+    def improve_resume(self, improvement_areas, target_role=""):
+    def get_improved_resume(self, target_role="", highlight_skills=""):
